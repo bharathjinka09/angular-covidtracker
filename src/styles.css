@@ -4,6 +4,10 @@ body, html {
   color: lightslategray;
 }
 
+html{
+  scroll-behavior:smooth;
+}
+
 @media(max-width: 768px) {
   #header img {
     margin: 0 auto;
